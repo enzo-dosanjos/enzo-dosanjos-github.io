@@ -131,13 +131,13 @@ const Qualification = () => (
                             2019 – 2022
                         </span>
                         <h2 data-aos="zoom-in"
-                            data-aos-delay="2000"
+                            data-aos-delay="2500"
                             data-aos-once="true"
                         >
                             Baccalaureate with “très bien” distinction
                         </h2>
                         <h4 data-aos="zoom-in"
-                            data-aos-delay="2300"
+                            data-aos-delay="3000"
                             data-aos-once="true"
                             className="school"
                         >
