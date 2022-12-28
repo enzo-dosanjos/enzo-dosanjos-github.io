@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5b11f5c-5e4f-414d-a8df-113ac76d58f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/img/Underline.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Pages/Contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Pages/Contact.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Pages/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Pages/Projects.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Pages/Qualification.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Pages/Qualification.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Pages/Skills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Pages/Skills.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="b5b11f5c-5e4f-414d-a8df-113ac76d58f5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1672236777170</updated>
       <workItem from="1672236779412" duration="3590000" />
-      <workItem from="1672258487228" duration="2995000" />
+      <workItem from="1672258487228" duration="3330000" />
     </task>
     <servers />
   </component>
