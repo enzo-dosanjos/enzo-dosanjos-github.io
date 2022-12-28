@@ -19,7 +19,7 @@ AOS.init();
 
 /* to download Resume */ /*doesn't work */
 const downloadResume = () => {
-    fetch('https://cors-anywhere.herokuapp.com/' + "Resume-EnzoDosAnjos.pdf", {
+    fetch("Resume-EnzoDosAnjos.pdf", {
         method: 'GET',
         headers: {
             'Content-Type': 'application/pdf',
@@ -40,9 +40,6 @@ const downloadResume = () => {
 
             // Append to html link element page
             document.body.appendChild(link);
-
-            // Start download
-            link.click();
 
             // Clean up and remove the link
             link.parentNode.removeChild(link);
@@ -90,6 +87,7 @@ const Home = () => (
                                     data-aos="fade-up-right"
                                     data-aos-delay="300"
                                     data-aos-once="true"
+                                    onClick={downloadResume}
                             >
                                 <span className="circle"><DownloadOutlinedIcon/></span>
                                 <span className="title">Download CV</span>
