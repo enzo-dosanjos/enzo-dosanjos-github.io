@@ -19,6 +19,7 @@ const SectionTitle = (props) => {
                     delay: 70
                 }}
             />
+            <li className="underline"/>
         </h1>
 
         : '';
@@ -32,6 +33,11 @@ const Line = (props) => {
 const Line2 = (props) => {
     return props.isVisible ?
         <li className="line-2"/> : '';
+}
+
+const UnderLine = (props) => {
+    return props.isVisible ?
+        <li className="underline"/> : '';
 }
 
 AOS.init();

@@ -41,7 +41,7 @@ const Contact = () => {
             )
     }
 
-    const ComponentToTrack = (props) => {
+    const SectionTitle = (props) => {
 
         return props.isVisible ?
                 <h1>
@@ -52,6 +52,7 @@ const Contact = () => {
                             delay: 70
                         }}
                     />
+                    <li className="underline"/>
                 </h1>
             
             : '';
@@ -64,7 +65,7 @@ const Contact = () => {
             <Container>
                 <div className="contact-content">
                     <TrackVisibility once>
-                        <ComponentToTrack/>
+                        <SectionTitle/>
                     </TrackVisibility>
                     <div className="contact-form">
                         <form ref={refForm}

@@ -3,7 +3,7 @@ import { Container } from "react-bootstrap";
 import Typewriter from "typewriter-effect"
 import TrackVisibility from "react-on-screen"
 
-const ComponentToTrack = (props) => {
+const SectionTitle = (props) => {
 
     return props.isVisible ?
         <h1>
@@ -14,6 +14,7 @@ const ComponentToTrack = (props) => {
                     delay: 70
                 }}
             />
+            <li className="underline"/>
         </h1>
 
         : '';
@@ -23,7 +24,7 @@ const Skills = () => (
         <section className="skills" id="skills">
             <Container>
                 <TrackVisibility once>
-                    <ComponentToTrack/>
+                    <SectionTitle />
                 </TrackVisibility>
             </Container>
         </section>

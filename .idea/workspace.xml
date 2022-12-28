@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5b11f5c-5e4f-414d-a8df-113ac76d58f5" name="Changes" comment="" />
+    <list default="true" id="b5b11f5c-5e4f-414d-a8df-113ac76d58f5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assets/img/Underline.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Pages/Contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Pages/Contact.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Pages/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Pages/Projects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Pages/Qualification.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Pages/Qualification.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Pages/Skills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Pages/Skills.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,15 +26,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/colin/Documents/GitHub/enzo-dosanjos-github.io",
-    "nodejs_package_manager_path": "yarn"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/colin/Documents/GitHub/enzo-dosanjos-github.io&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\colin\Documents\GitHub\enzo-dosanjos-github.io" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="enzo-dosanjos.github.io" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="enzo-dosanjos.github.io" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,7 +63,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672236777170</updated>
-      <workItem from="1672236779412" duration="2874000" />
+      <workItem from="1672236779412" duration="3590000" />
+      <workItem from="1672258487228" duration="2995000" />
     </task>
     <servers />
   </component>

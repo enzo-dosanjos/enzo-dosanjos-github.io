@@ -15,7 +15,7 @@ import PopupCard from '../PopupCard'
 import projects from '../projects'
 
 
-const ComponentToTrack = (props) => {
+const SectionTitle = (props) => {
 
     return props.isVisible ?
         <h1>
@@ -26,6 +26,7 @@ const ComponentToTrack = (props) => {
                     delay: 70
                 }}
             />
+            <li className="underline"/>
         </h1>
 
         : '';
@@ -43,7 +44,7 @@ const Projects = () => {
         <section className="projects" id="projects">
             <Container>
                 <TrackVisibility once>
-                    <ComponentToTrack/>
+                    <SectionTitle/>
                 </TrackVisibility>
                 <Tab.Container id="projects-tabs"
                                defaultActiveKey="first"
