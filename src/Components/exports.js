@@ -4,6 +4,7 @@ import Skills from "./Pages/Skills"
 import Qualification from "./Pages/Qualification"
 import Projects from "./Pages/Projects"
 import NavBar from "./NavBar"
+import Footer from "./Footer"
 
 export {
     Home,
@@ -11,5 +12,6 @@ export {
     Skills,
     Qualification,
     Projects,
-    NavBar
+    NavBar,
+    Footer
 };

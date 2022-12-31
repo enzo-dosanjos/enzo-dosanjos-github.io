@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5b11f5c-5e4f-414d-a8df-113ac76d58f5" name="Changes" comment="" />
+    <list default="true" id="b5b11f5c-5e4f-414d-a8df-113ac76d58f5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Components/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/arrow1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/arrow2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/Resume-EnzoDosAnjos.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/dist/Resume-EnzoDosAnjos.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/src/assets/img/Portfolio.16738463ee320dca58e3193c09d9136c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/src/assets/img/Scheduler.4650c74f2e5aac864bfe8880e9b0fe3e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/src/assets/img/virtual-assistant.baed0596a590df3309a37a692533c8c6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/NavBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/NavBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Pages/Footer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Pages/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Pages/Projects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Pages/Qualification.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Pages/Qualification.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Pages/Skills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Pages/Skills.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/exports.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/exports.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/BlackLine.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Underline.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,29 +47,20 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/colin/Documents/GitHub/enzo-dosanjos-github.io&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/colin/IdeaProjects/personal-portfolio&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\colin\Documents\GitHub\enzo-dosanjos-github.io\src\assets\img" />
+      <recent name="C:\Users\colin\Documents\GitHub\enzo-dosanjos-github.io\dist\src\assets\img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\colin\Documents\GitHub\enzo-dosanjos-github.io\src\Components" />
+      <recent name="C:\Users\colin\Documents\GitHub\enzo-dosanjos-github.io\src\assets\img\logo" />
       <recent name="C:\Users\colin\Documents\GitHub\enzo-dosanjos-github.io" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="enzo-dosanjos.github.io" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="enzo-dosanjos.github.io" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -56,7 +71,12 @@
       <option name="presentableId" value="Default" />
       <updated>1672236777170</updated>
       <workItem from="1672236779412" duration="3590000" />
-      <workItem from="1672258487228" duration="3678000" />
+      <workItem from="1672258487228" duration="4055000" />
+      <workItem from="1672263053258" duration="540000" />
+      <workItem from="1672329277187" duration="16869000" />
+      <workItem from="1672358090046" duration="2242000" />
+      <workItem from="1672398488870" duration="13459000" />
+      <workItem from="1672474902975" duration="12310000" />
     </task>
     <servers />
   </component>

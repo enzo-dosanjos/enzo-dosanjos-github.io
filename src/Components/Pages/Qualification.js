@@ -1,4 +1,4 @@
-import React from "react"
+import React from "react";
 import { Container } from "react-bootstrap";
 import Typewriter from "typewriter-effect"
 import TrackVisibility from "react-on-screen"
@@ -49,11 +49,15 @@ const Qualification = () => (
                 <SectionTitle/>
             </TrackVisibility>
                 <div className="work-exp">
+                    <h3> Experience </h3>
                     <div className="item1">
                         <TrackVisibility once>
                             <Line/>
                         </TrackVisibility>
-                        <div className="icon" data-aos="zoom-in">
+                        <div className="icon"
+                             data-aos="zoom-in"
+                             data-aos-once="true"
+                        >
                             <BusinessCenterRoundedIcon/>
                         </div>
                         <div className="text">
@@ -70,14 +74,14 @@ const Qualification = () => (
                                 Observation Internship at Clubic
                             </h2>
                             <p data-aos="zoom-in"
-                               data-aos-delay="750"
+                               data-aos-delay="650"
                                data-aos-once="true"
                             >
-                                Assist in the maintenance of a high-tech and digital news website. Mandatory internship in the school curriculum at St-Charles
+                                Assist in the maintenance of a high-tech and digital news website (Mandatory internship)
                             </p>
                             <h4 className="skills"
                                 data-aos="zoom-in"
-                                data-aos-delay="1200"
+                                data-aos-delay="900"
                                 data-aos-once="true"
                             >
                                 Cloud Computing and Web development
@@ -86,6 +90,7 @@ const Qualification = () => (
                     </div>
                 </div>
             <div className="education">
+                <h3> Education </h3>
                 <div className="item2">
                     <TrackVisibility once>
                         <Line/>
@@ -104,14 +109,14 @@ const Qualification = () => (
                             2022 - currently
                         </span>
                         <h2 data-aos="zoom-in"
-                            data-aos-delay="500"
+                            data-aos-delay="400"
                             data-aos-once="true"
                         >
                             Initial training for engineering jobs (FIMI)
                         </h2>
                         <h4 className="school"
                             data-aos="zoom-in"
-                            data-aos-delay="1000"
+                            data-aos-delay="800"
                             data-aos-once="true"
                         >
                             Insa Lyon
@@ -124,26 +129,26 @@ const Qualification = () => (
                     </TrackVisibility>
                     <div className="icon"
                          data-aos="zoom-in"
-                         data-aos-delay="1500"
+                         data-aos-delay="1200"
                          data-aos-once="true"
                     >
                         <SchoolRoundedIcon/>
                     </div>
                     <div className="text">
                         <span data-aos="zoom-in"
-                              data-aos-delay="1600"
+                              data-aos-delay="1300"
                               data-aos-once="true"
                         >
                             2019 – 2022
                         </span>
                         <h2 data-aos="zoom-in"
-                            data-aos-delay="2500"
+                            data-aos-delay="1600"
                             data-aos-once="true"
                         >
                             Baccalaureate with “très bien” distinction
                         </h2>
                         <h4 data-aos="zoom-in"
-                            data-aos-delay="3000"
+                            data-aos-delay="2000"
                             data-aos-once="true"
                             className="school"
                         >
@@ -157,4 +162,4 @@ const Qualification = () => (
 )
 
 
-export default Qualification
+export default Qualification;

@@ -16,7 +16,6 @@ import projects from '../projects'
 
 
 const SectionTitle = (props) => {
-
     return props.isVisible ?
         <h1>
             <Typewriter

@@ -30,6 +30,17 @@ module.exports = {
                     "css-loader", // for styles
                 ],
             },
+            {
+                test: /\.svg$/,
+                use: [
+                    {
+                        loader: 'svg-url-loader',
+                        options: {
+                            limit: 10000,
+                        },
+                    },
+                ],
+            },
 
         ],
     },

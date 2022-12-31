@@ -1,14 +1,6 @@
 import React, {useState} from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './style.css'
-import {
-    BrowserRouter as Router,
-    Route,
-    Routes
-} from "react-router-dom"
-
-import PopupCard from './Components/PopupCard'
-import projects from './Components/projects'
 
 import {
     NavBar,
@@ -16,23 +8,52 @@ import {
     Skills,
     Qualification,
     Projects,
-    Contact
+    Contact,
+    Footer
 } from './Components/exports'
+import TrackVisibility from "react-on-screen";
 
 
 function App() {
 
+    const [activeLink, setActiveLink] = useState('home');
 
+    const LinkDetect = (props) => {
+        if (props.isVisible) {
+            setActiveLink(props.value)
+        }
+    }
 
     return (
         <div >
-            <NavBar />
-            <Home />
-            <Skills />
-            <Qualification />
-            <Projects />
-            <Contact />
+            <NavBar activeLink={activeLink} setActiveLink={setActiveLink}/>
 
+            <TrackVisibility>
+                <LinkDetect value='home'/>
+                <Home />
+            </TrackVisibility>
+
+            <TrackVisibility>
+                <LinkDetect value='skills'/>
+                <Skills />
+            </TrackVisibility>
+
+            <TrackVisibility>
+                <LinkDetect value='qualification'/>
+                <Qualification />
+            </TrackVisibility>
+
+            <TrackVisibility>
+                <LinkDetect value='projects'/>
+                <Projects />
+            </TrackVisibility>
+
+            <TrackVisibility>
+                <LinkDetect value='contact'/>
+                <Contact />
+            </TrackVisibility>
+
+            <Footer />
         </div>
 
     );

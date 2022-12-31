@@ -5,8 +5,8 @@
   "scripts": {
     "start": "webpack-dev-server",
     "build": "webpack",
-    "predeploy" : "yarn build",
-    "deploy" : "gh-pages -d build"
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build"
   },
   "author": "Me",
   "license": "ISC",
@@ -26,6 +26,7 @@
     "react-devtools": "^4.27.1",
     "react-dom": "^18.2.0",
     "react-download-link": "^2.3.0",
+    "react-multi-carousel": "^2.8.2",
     "react-on-screen": "^2.1.1",
     "react-router-dom": "^6.6.0",
     "react-router-hash-link": "^2.4.3",
