@@ -11,6 +11,23 @@ import PhoneIphone from '@mui/icons-material/PhoneIphone';
 import EmailOutlined from '@mui/icons-material/EmailOutlined';
 
 
+const SectionTitle = (props) => {
+
+    return props.isVisible ?
+        <h1>
+            <Typewriter
+                options={{
+                    strings: 'Contact me',
+                    autoStart: true,
+                    delay: 70
+                }}
+            />
+            <li className="underline"/>
+        </h1>
+
+        : '';
+}
+
 const Contact = () => {
 
     const [buttonText, setButtonText] = useState('Send');
@@ -40,33 +57,16 @@ const Contact = () => {
                 }
             )
     }
-
-    const SectionTitle = (props) => {
-
-        return props.isVisible ?
-                <h1>
-                    <Typewriter
-                        options={{
-                            strings: 'Contact me',
-                            autoStart: true,
-                            delay: 70
-                        }}
-                    />
-                    <li className="underline"/>
-                </h1>
-            
-            : '';
-    }
     
     AOS.init();
     
     return (
         <section className="contact" id="contact">
             <Container>
+                <TrackVisibility once>
+                    <SectionTitle/>
+                </TrackVisibility>
                 <div className="contact-content">
-                    <TrackVisibility once>
-                        <SectionTitle/>
-                    </TrackVisibility>
                     <div className="contact-form">
                         <form ref={refForm}
                               onSubmit={sendEmail}
