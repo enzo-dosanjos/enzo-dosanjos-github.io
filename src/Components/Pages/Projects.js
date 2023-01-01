@@ -11,7 +11,7 @@ import AOS from 'aos';
 import 'aos/dist/aos.css'
 
 import ProjectCard from '../ProjectCard'
-import PopupCard from '../PopupCard'
+import Modal from '../Modal'
 import projects from '../projects'
 
 
@@ -113,7 +113,10 @@ const Projects = () => {
                         </Tab.Pane>
                     </Tab.Content>
                 </Tab.Container>
-                {openModal && <PopupCard {...projects[idCard]} setcloseModal={setOpenModal}/>}
+                <div className="modal-fct">
+                    {openModal ? (document.body.style.overflow ="hidden"): (document.body.style.overflow ="auto")} {/* disable scroll while in modal */}
+                    {openModal && <Modal {...projects[idCard]} setOpenModal={setOpenModal}/>}
+                </div>
             </Container>
         </section>
     )

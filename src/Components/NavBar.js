@@ -5,7 +5,6 @@ import Navbar from 'react-bootstrap/Navbar';
 
 
 const NavBar = ({activeLink, setActiveLink}) => {
-    console.log(activeLink)
     const [scrolled, setScrolled] = useState(false);
 
     {/* verify if the user has scrolled down*/}

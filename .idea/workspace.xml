@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5b11f5c-5e4f-414d-a8df-113ac76d58f5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Components/Pages/Contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Pages/Contact.js" afterDir="false" />
+    <list default="true" id="b5b11f5c-5e4f-414d-a8df-113ac76d58f5" name="Changes" comment="type writter contact me was repeated">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/NavBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/NavBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Pages/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Pages/Projects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/PopupCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Modal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ProjectCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ProjectCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +32,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/colin/IdeaProjects/personal-portfolio&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/colin/IdeaProjects/Alamin-Portfolio-master&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;
   }
 }</component>
@@ -55,8 +62,18 @@
       <workItem from="1672358090046" duration="2242000" />
       <workItem from="1672398488870" duration="13459000" />
       <workItem from="1672474902975" duration="12681000" />
-      <workItem from="1672488286905" duration="281000" />
+      <workItem from="1672488286905" duration="383000" />
+      <workItem from="1672489052343" duration="916000" />
+      <workItem from="1672577799596" duration="9141000" />
     </task>
+    <task id="LOCAL-00001" summary="type writter contact me was repeated">
+      <created>1672488662010</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672488662010</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,5 +89,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="type writter contact me was repeated" />
+    <option name="LAST_COMMIT_MESSAGE" value="type writter contact me was repeated" />
   </component>
 </project>

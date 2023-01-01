@@ -1,13 +1,16 @@
 import React, {useState} from 'react'
 
+import ZoomInOutlinedIcon from '@mui/icons-material/ZoomInOutlined';
+
 
 const ProjectCard = ({ title, description, imgUrl }) => (
     <div className="project-box">
         <img src={imgUrl}/>
+        <div className="project-icon">
+            <ZoomInOutlinedIcon className="icon"/>
+        </div>
         <div className="project-text">
             <h1>{title}</h1>
-            <span>{description}</span>
-            <h4>Github link: </h4>
         </div>
     </div>
 )
