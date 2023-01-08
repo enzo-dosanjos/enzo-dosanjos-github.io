@@ -14,7 +14,7 @@ const Footer = () => (
             <a href="https://github.com/enzo-dosanjos">
                 <GitHubIcon className="icon-git"/>
             </a>
-            <a href="https://www.linkedin.com/in/enzo-dos-anjos-548484238/">
+            <a href="src/Components/Footer">
                 <LinkedInIcon className="icon-linkedin"/>
             </a>
         </ul>

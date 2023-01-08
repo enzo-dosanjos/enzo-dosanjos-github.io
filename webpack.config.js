@@ -5,7 +5,13 @@ module.exports = {
     mode: "development",
     entry: "/src/index.js", // main js
     output: {
-        path: path.resolve(__dirname, "dist"), // output folder
+        path: path.resolve(__dirname, "public"), // output folder
+    },
+    devServer: {
+        port: 3000,
+        historyApiFallback: {
+            index: 'index.html'
+        }
     },
     module: {
         rules: [
@@ -16,6 +22,7 @@ module.exports = {
                     loader: "babel-loader",
                     options: {
                         presets: ["@babel/preset-env", "@babel/preset-react"],
+
                     },
                 },
             },

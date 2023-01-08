@@ -82,7 +82,7 @@ const Home = () => (
                         Passionate about Computer Science and Programming since I was young, I have done many personal projects and I am now looking for a discovery internship.
                     </p>
                     <div className="button">
-                        <a href="Resume-EnzoDosAnjos.pdf" download> {/* build project for it to work */}
+                        <a href="/src/assets/Resume-EnzoDosAnjos.pdf" download> {/* build project for it to work */}
                             <button className="dw-btn"
                                     data-aos="fade-up-right"
                                     data-aos-delay="300"

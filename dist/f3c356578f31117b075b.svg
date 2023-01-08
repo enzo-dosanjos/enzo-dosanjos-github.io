@@ -1,1 +1,0 @@
-module.exports = "data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='1.5' height='100' viewBox='0 0 1 100'%3e %3cdefs%3e %3cstyle%3e .cls-1 %7b fill: %239b9d9e; stroke: %23000; stroke-width: 1px; fill-rule: evenodd; %7d %3c/style%3e %3c/defs%3e %3cpath id='Forme_1' data-name='Forme 1' class='cls-1' d='M0,200V0H1V200H0'/%3e %3c/svg%3e"

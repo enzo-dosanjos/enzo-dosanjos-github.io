@@ -22,6 +22,8 @@ import SpanishLVL from "../../assets/img/Spanish-lvl.svg";
 import JapLVL from "../../assets/img/Jap-lvl.svg";
 
 
+
+
 const responsive = {
     superLargeDesktop: {
         breakpoint: { max: 4000, min: 3000 },
