@@ -5,13 +5,8 @@ module.exports = {
     mode: "development",
     entry: "/src/index.js", // main js
     output: {
-        path: path.resolve(__dirname, "public"), // output folder
-    },
-    devServer: {
-        port: 3000,
-        historyApiFallback: {
-            index: 'index.html'
-        }
+        publicPath: "/",
+        path: path.join(__dirname, "public"), // output folder
     },
     module: {
         rules: [
