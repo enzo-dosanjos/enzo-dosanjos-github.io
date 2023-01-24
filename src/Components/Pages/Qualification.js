@@ -48,47 +48,47 @@ const Qualification = () => (
             <TrackVisibility once>
                 <SectionTitle/>
             </TrackVisibility>
-                <div className="work-exp">
-                    <h3> Experience </h3>
-                    <div className="item1">
-                        <TrackVisibility once>
-                            <Line/>
-                        </TrackVisibility>
-                        <div className="icon"
-                             data-aos="zoom-in"
-                             data-aos-once="true"
-                        >
-                            <BusinessCenterRoundedIcon/>
-                        </div>
-                        <div className="text">
+            <div className="work-exp">
+                <h3> Experience </h3>
+                <div className="item1">
+                    <TrackVisibility once>
+                        <Line/>
+                    </TrackVisibility>
+                    <div className="icon"
+                         data-aos="zoom-in"
+                         data-aos-once="true"
+                    >
+                        <BusinessCenterRoundedIcon/>
+                    </div>
+                    <div className="text">
                             <span data-aos="zoom-in"
                                   data-aos-delay="100"
                                   data-aos-once="true"
                             >
                                 June 2019 - 1 month
                             </span>
-                            <h2 data-aos="zoom-in"
-                                data-aos-delay="200"
-                                data-aos-once="true"
-                            >
-                                Observation Internship at Clubic
-                            </h2>
-                            <p data-aos="zoom-in"
-                               data-aos-delay="650"
-                               data-aos-once="true"
-                            >
-                                Assist in the maintenance of a high-tech and digital news website (Mandatory internship)
-                            </p>
-                            <h4 className="skills"
-                                data-aos="zoom-in"
-                                data-aos-delay="900"
-                                data-aos-once="true"
-                            >
-                                Cloud Computing and Web development
-                            </h4>
-                        </div>
+                        <h2 data-aos="zoom-in"
+                            data-aos-delay="200"
+                            data-aos-once="true"
+                        >
+                            Observation Internship at Clubic
+                        </h2>
+                        <p data-aos="zoom-in"
+                           data-aos-delay="650"
+                           data-aos-once="true"
+                        >
+                            Assist in the maintenance of a high-tech and digital news website (Mandatory internship)
+                        </p>
+                        <h4 className="skills"
+                            data-aos="zoom-in"
+                            data-aos-delay="900"
+                            data-aos-once="true"
+                        >
+                            Cloud Computing and Web development
+                        </h4>
                     </div>
                 </div>
+            </div>
             <div className="education">
                 <h3> Education </h3>
                 <div className="item2">

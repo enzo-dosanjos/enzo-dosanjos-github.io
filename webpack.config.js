@@ -5,8 +5,7 @@ module.exports = {
     mode: "development",
     entry: "/src/index.js", // main js
     output: {
-        publicPath: "/",
-        path: path.join(__dirname, "public"), // output folder
+        path: path.resolve(__dirname, ""), // output folder
     },
     module: {
         rules: [
@@ -17,7 +16,6 @@ module.exports = {
                     loader: "babel-loader",
                     options: {
                         presets: ["@babel/preset-env", "@babel/preset-react"],
-
                     },
                 },
             },
@@ -43,7 +41,6 @@ module.exports = {
                     },
                 ],
             },
-
         ],
     },
     plugins: [

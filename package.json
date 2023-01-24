@@ -4,9 +4,7 @@
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server",
-    "build": "webpack",
-    "predeploy": "yarn build",
-    "deploy": "gh-pages -d build"
+    "build": "webpack"
   },
   "author": "Me",
   "license": "ISC",
@@ -19,7 +17,6 @@
     "aos": "^3.0.0-beta.6",
     "bootstrap": "^5.2.3",
     "file-loader": "^6.2.0",
-    "gh-pages": "^4.0.0",
     "react": "^18.2.0",
     "react-bootstrap": "^2.7.0",
     "react-bootstrap-icons": "^1.10.2",

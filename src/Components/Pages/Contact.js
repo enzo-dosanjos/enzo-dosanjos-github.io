@@ -31,7 +31,7 @@ const SectionTitle = (props) => {
 const Contact = () => {
 
     const [buttonText, setButtonText] = useState('Send');
-    
+
     const refForm = useRef();
 
     const sendEmail = (e) => {
@@ -57,9 +57,9 @@ const Contact = () => {
                 }
             )
     }
-    
+
     AOS.init();
-    
+
     return (
         <section className="contact" id="contact">
             <Container>

@@ -63,112 +63,112 @@ const SectionTitle = (props) => {
 AOS.init()
 
 const Skills = () => (
-        <section className="skills" id="skills">
-            <Container>
-                <TrackVisibility once>
-                    <SectionTitle />
-                </TrackVisibility>
-                <div className="hard-skills">
-                    <div className="programming">
-                        <h3>Programming</h3>
-                            <ul className="logo">
-                                <li>
-                                    <img src={PythonLogo}
-                                         alt="Python-logo"
-                                         data-aos="zoom-in"
-                                         data-aos-once="true"
-                                />
-                                    <h2>Python</h2>
-                                </li>
-                                <li>
-                                    <img src={JSLogo}
-                                         alt="JavaScript-logo"
-
-                                         data-aos="zoom-in"
-                                         data-aos-once="true"
-                                />
-                                    <h2>JavaScript</h2>
-                                </li>
-                                <li>
-                                    <img src={HtmlLogo}
-                                         alt="HTML-logo"
-                                         data-aos="zoom-in"
-                                         data-aos-once="true"
-                                />
-                                    <h2>HTML5</h2>
-                                </li>
-                                <li>
-                                    <img src={CssLogo}
-                                         alt="CSS-logo"
-                                         data-aos="zoom-in"
-                                         data-aos-once="true"
-                                    />
-                                    <h2>CSS3</h2>
-                                </li>
-                                <li>
-                                    <img src={ReactLogo}
-                                         alt="React-logo"
-                                         data-aos="zoom-in"
-                                         data-aos-once="true"
-                                    />
-                                    <h2>React</h2>
-                                </li>
-                            </ul>
-                    </div>
-                    <div className="tools-platforms">
-                        <h3>Tools & Platforms</h3>
-                        <ul className="logo">
-                            <li>
-                                <img src={GitLogo}
-                                     alt="git-logo"
-                                     data-aos="zoom-in"
-                                     data-aos-once="true"
+    <section className="skills" id="skills">
+        <Container>
+            <TrackVisibility once>
+                <SectionTitle />
+            </TrackVisibility>
+            <div className="hard-skills">
+                <div className="programming">
+                    <h3>Programming</h3>
+                    <ul className="logo">
+                        <li>
+                            <img src={PythonLogo}
+                                 alt="Python-logo"
+                                 data-aos="zoom-in"
+                                 data-aos-once="true"
                             />
-                                <h2>Git</h2>
-                            </li>
-                            <li>
-                                <img src={PhotoshopLogo}
-                                     alt="photoshop-logo"
-                                     data-aos="zoom-in"
-                                     data-aos-once="true"
-                            />
-                                <h2>Photoshop</h2>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
+                            <h2>Python</h2>
+                        </li>
+                        <li>
+                            <img src={JSLogo}
+                                 alt="JavaScript-logo"
 
-                <div className="spoken-language">
-                    <h3>Languages</h3>
-                    <Carousel responsive={responsive}
-                              infinite={true}
-                              autoPlay={true}
-                              autoPlaySpeed="5000"
-                              keyBoardControl={true}
-                              ssr={true}
-                              className="skill-carousel"
-                    >
-                        <div className="language">
-                            <img src={FrenchLVL} alt="french-level"/>
-                            <h5>French</h5>
-                        </div>
-                        <div className="language">
-                            <img src={EnglishLVL} alt="english-level"/>
-                            <h5>English</h5>
-                        </div>
-                        <div className="language">
-                            <img src={SpanishLVL} alt="spanish-level"/>
-                            <h5>Spanish</h5>
-                        </div>
-                        <div className="language">
-                            <img src={JapLVL} alt="japanese-level"/>
-                            <h5>Japanese</h5>
-                        </div>
-                    </Carousel>
+                                 data-aos="zoom-in"
+                                 data-aos-once="true"
+                            />
+                            <h2>JavaScript</h2>
+                        </li>
+                        <li>
+                            <img src={HtmlLogo}
+                                 alt="HTML-logo"
+                                 data-aos="zoom-in"
+                                 data-aos-once="true"
+                            />
+                            <h2>HTML5</h2>
+                        </li>
+                        <li>
+                            <img src={CssLogo}
+                                 alt="CSS-logo"
+                                 data-aos="zoom-in"
+                                 data-aos-once="true"
+                            />
+                            <h2>CSS3</h2>
+                        </li>
+                        <li>
+                            <img src={ReactLogo}
+                                 alt="React-logo"
+                                 data-aos="zoom-in"
+                                 data-aos-once="true"
+                            />
+                            <h2>React</h2>
+                        </li>
+                    </ul>
                 </div>
-            </Container>
-        </section>
-    )
+                <div className="tools-platforms">
+                    <h3>Tools & Platforms</h3>
+                    <ul className="logo">
+                        <li>
+                            <img src={GitLogo}
+                                 alt="git-logo"
+                                 data-aos="zoom-in"
+                                 data-aos-once="true"
+                            />
+                            <h2>Git</h2>
+                        </li>
+                        <li>
+                            <img src={PhotoshopLogo}
+                                 alt="photoshop-logo"
+                                 data-aos="zoom-in"
+                                 data-aos-once="true"
+                            />
+                            <h2>Photoshop</h2>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <div className="spoken-language">
+                <h3>Languages</h3>
+                <Carousel responsive={responsive}
+                          infinite={true}
+                          autoPlay={true}
+                          autoPlaySpeed="5000"
+                          keyBoardControl={true}
+                          ssr={true}
+                          className="skill-carousel"
+                >
+                    <div className="language">
+                        <img src={FrenchLVL} alt="french-level"/>
+                        <h5>French</h5>
+                    </div>
+                    <div className="language">
+                        <img src={EnglishLVL} alt="english-level"/>
+                        <h5>English</h5>
+                    </div>
+                    <div className="language">
+                        <img src={SpanishLVL} alt="spanish-level"/>
+                        <h5>Spanish</h5>
+                    </div>
+                    <div className="language">
+                        <img src={JapLVL} alt="japanese-level"/>
+                        <h5>Japanese</h5>
+                    </div>
+                </Carousel>
+            </div>
+        </Container>
+    </section>
+)
 
 
 export default Skills

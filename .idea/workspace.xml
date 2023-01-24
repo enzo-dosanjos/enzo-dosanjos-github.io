@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5b11f5c-5e4f-414d-a8df-113ac76d58f5" name="Changes" comment="change file structure">
-      <change beforePath="$PROJECT_DIR$/Resume-EnzoDosAnjos.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/public/Resume-EnzoDosAnjos.pdf" afterDir="false" />
-    </list>
+    <list default="true" id="307d2d5b-76fc-413e-9306-77dc44c1f8df" name="Changes" comment="Make it work again" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -15,7 +20,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2JXuW4JqwCQ9zSGTOgIGjmTLnlk" />
+  <component name="ProjectId" id="2JHi7HgryMqqG0wjYZXS1HaKqct" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -25,68 +30,77 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/colin/IdeaProjects/personal-portfolio",
-    "nodejs_package_manager_path": "yarn"
+    "last_opened_file_path": "C:/Users/colin/Documents/GitHub/enzo-dosanjos-github.io",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\colin\Documents\GitHub\enzo-dosanjos-github.io\public" />
-      <recent name="C:\Users\colin\Documents\GitHub\enzo-dosanjos-github.io" />
-      <recent name="C:\Users\colin\Documents\GitHub\enzo-dosanjos-github.io\src\assets\img" />
-      <recent name="C:\Users\colin\Documents\GitHub\enzo-dosanjos-github.io\dist\src\assets\img" />
+      <recent name="C:\Users\colin\IdeaProjects\Portofolio\src\Components" />
+      <recent name="C:\Users\colin\IdeaProjects\Portofolio\src\assets" />
+      <recent name="C:\Users\colin\IdeaProjects\Portofolio\src\assets\img" />
+      <recent name="C:\Users\colin\IdeaProjects\Portofolio\dist\src" />
+      <recent name="C:\Users\colin\IdeaProjects\Portofolio\dist\src\assets" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\colin\Documents\GitHub\enzo-dosanjos-github.io\public" />
-      <recent name="C:\Users\colin\Documents\GitHub\enzo-dosanjos-github.io" />
-      <recent name="C:\Users\colin\Documents\GitHub\enzo-dosanjos-github.io\src\Components" />
-      <recent name="C:\Users\colin\Documents\GitHub\enzo-dosanjos-github.io\src\assets\img\logo" />
+      <recent name="C:\Users\colin\IdeaProjects\Portofolio\dist" />
+      <recent name="C:\Users\colin\IdeaProjects\Portofolio\src\Components" />
+      <recent name="C:\Users\colin\IdeaProjects\Portofolio\src\assets\img" />
+      <recent name="C:\Users\colin\IdeaProjects\Portofolio\src\assets\fonts" />
+      <recent name="C:\Users\colin\IdeaProjects\Portofolio\src\Assets\fonts" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Portofolio" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Portofolio" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b5b11f5c-5e4f-414d-a8df-113ac76d58f5" name="Changes" comment="" />
-      <created>1672236777170</created>
+      <changelist id="307d2d5b-76fc-413e-9306-77dc44c1f8df" name="Changes" comment="" />
+      <created>1671741241919</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1672236777170</updated>
-      <workItem from="1672236779412" duration="3590000" />
-      <workItem from="1672258487228" duration="4055000" />
-      <workItem from="1672263053258" duration="540000" />
-      <workItem from="1672329277187" duration="16869000" />
-      <workItem from="1672358090046" duration="2242000" />
-      <workItem from="1672398488870" duration="13459000" />
-      <workItem from="1672474902975" duration="12681000" />
-      <workItem from="1672488286905" duration="383000" />
-      <workItem from="1672489052343" duration="916000" />
-      <workItem from="1672577799596" duration="9327000" />
-      <workItem from="1672680551063" duration="1058000" />
-      <workItem from="1673111431297" duration="763000" />
-      <workItem from="1673169627132" duration="1650000" />
+      <updated>1671741241919</updated>
+      <workItem from="1671741243387" duration="9716000" />
+      <workItem from="1671780200516" duration="1355000" />
+      <workItem from="1671782300150" duration="19160000" />
+      <workItem from="1671818192165" duration="13410000" />
+      <workItem from="1671870763172" duration="30640000" />
+      <workItem from="1671922076895" duration="4198000" />
+      <workItem from="1671952751632" duration="14970000" />
+      <workItem from="1671983137420" duration="593000" />
+      <workItem from="1671993335028" duration="16912000" />
+      <workItem from="1672046886879" duration="38829000" />
+      <workItem from="1672133594205" duration="40241000" />
+      <workItem from="1672216502995" duration="15819000" />
+      <workItem from="1672236758789" duration="18000" />
+      <workItem from="1674581626434" duration="631000" />
+      <workItem from="1674582918553" duration="462000" />
     </task>
-    <task id="LOCAL-00001" summary="type writter contact me was repeated">
-      <created>1672488662010</created>
+    <task id="LOCAL-00001" summary="Make it work again">
+      <created>1674582993412</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1672488662010</updated>
+      <updated>1674582993412</updated>
     </task>
-    <task id="LOCAL-00002" summary="change modal and project card design">
-      <created>1672587252377</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1672587252377</updated>
-    </task>
-    <task id="LOCAL-00003" summary="change file structure">
-      <created>1673171140083</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1673171140083</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,9 +118,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="type writter contact me was repeated" />
-    <MESSAGE value="change modal and project card design" />
-    <MESSAGE value="change file structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="change file structure" />
+    <MESSAGE value="Make it work again" />
+    <option name="LAST_COMMIT_MESSAGE" value="Make it work again" />
   </component>
 </project>
