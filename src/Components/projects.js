@@ -5,7 +5,7 @@ import VirtualAssistant from '../assets/img/virtual-assistant.png'
 const projects = [
     {
         title: "Virtual Assistant",
-        description: "Like any child who has seen iron man, I always wanted to have my own virtual assistant. Hence, I coded one in Python.",
+        description: "Like any child who has watched iron man, I always wanted to have my own virtual assistant. Hence, I coded one in Python.",
         imgUrl: VirtualAssistant
 
     }, {

@@ -145,7 +145,7 @@ const Qualification = () => (
                             data-aos-delay="1600"
                             data-aos-once="true"
                         >
-                            Baccalaureate with “très bien” distinction
+                            Baccalaureate with “très bien” distinction | head of the class
                         </h2>
                         <h4 data-aos="zoom-in"
                             data-aos-delay="2000"
