@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="307d2d5b-76fc-413e-9306-77dc44c1f8df" name="Changes" comment="Make it work again" />
+    <list default="true" id="307d2d5b-76fc-413e-9306-77dc44c1f8df" name="Changes" comment="Change some informations">
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,16 +27,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/colin/Documents/GitHub/enzo-dosanjos-github.io",
-    "nodejs_interpreter_path": "node",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/colin/Documents/GitHub/enzo-dosanjos-github.io&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\colin\IdeaProjects\Portofolio\src\Components" />
@@ -92,6 +94,7 @@
       <workItem from="1672236758789" duration="18000" />
       <workItem from="1674581626434" duration="631000" />
       <workItem from="1674582918553" duration="901000" />
+      <workItem from="1674638862886" duration="374000" />
     </task>
     <task id="LOCAL-00001" summary="Make it work again">
       <created>1674582993412</created>
@@ -100,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674582993412</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Change some informations">
+      <created>1674639133092</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674639133092</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +129,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Make it work again" />
-    <option name="LAST_COMMIT_MESSAGE" value="Make it work again" />
+    <MESSAGE value="Change some informations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change some informations" />
   </component>
 </project>
