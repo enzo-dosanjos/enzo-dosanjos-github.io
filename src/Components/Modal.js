@@ -3,7 +3,7 @@ import React, { useState } from 'react'
 import CloseOutlinedIcon from '@mui/icons-material/CloseOutlined';
 
 
-const Modal = ({title, description, imgUrl, setOpenModal}) => {
+const Modal = ({title, description, imgUrl, source, setOpenModal}) => {
 
     return (
         <div className='modal'>
@@ -17,7 +17,7 @@ const Modal = ({title, description, imgUrl, setOpenModal}) => {
                 <div className="modal-text">
                     <span>{description}</span>
                 </div>
-                <a href="src/Components/Modal">
+                <a href={source}>
                     <button className="source">View source</button>
                 </a>
                 <div className="modal-bottom">
