@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="307d2d5b-76fc-413e-9306-77dc44c1f8df" name="Changes" comment="Change some informations">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Modal.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Pages/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Pages/Projects.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/projects.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +32,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/colin/Documents/GitHub/enzo-dosanjos-github.io",
+    "last_opened_file_path": "C:/Users/colin/OneDrive/Documents/GitHub/enzo-dosanjos.github.io",
     "nodejs_interpreter_path": "node",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Problems",
@@ -62,9 +58,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Portofolio" />
       <method v="2">
@@ -77,6 +70,9 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

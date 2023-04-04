@@ -31,7 +31,7 @@ const projects = [
 
     }, {
         title: "Microscopic Image Analysis",
-        description: "I have created a library in python for microscopic analysis from scratch. This library allows to analyse metal structures.",
+        description: "School Project: I have created with a friend a library in python for microscopic analysis from scratch. This library allows to analyse metal structures.",
         imgUrl: MicroAnalysis,
         source: "https://github.com/enzo-dosanjos/Microscopic-Image-Analysis-with-python"
 
