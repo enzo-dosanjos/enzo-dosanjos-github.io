@@ -53,13 +53,6 @@ const Home = () => (
     >
         <Container>
             <div className="hero-container">
-                    <span className="tagline"
-                          data-aos="fade-down-right"
-                          data-aos-delay="300"
-                          data-aos-once="true"
-                    >
-                        Welcome to my Portfolio
-                    </span>
                 <h3 data-aos="fade-right"
                     data-aos-delay="300"
                     data-aos-once="true"
@@ -69,7 +62,7 @@ const Home = () => (
                 <h1>
                     < Typewriter className="TextWriting"
                                  options=
-                                     {{strings: ['Enzo Dos Anjos', 'a student engineer'],
+                                     {{strings: ['Enzo Dos Anjos', 'a computer science student engineer'],
                                          autoStart: true,
                                          loop: true,
                                          pauseFor: 1500}}
@@ -79,10 +72,10 @@ const Home = () => (
                    data-aos-delay="300"
                    data-aos-once="true"
                 >
-                    Passionate about Computer Science and Programming since I was young, I have done many personal projects and I am now looking for a discovery internship.
+                    Passionate about Computer Science and Programming since I was young. I got interested in AI around 6 years ago and, now, being a 3rd year undergraduate at the Computer Science department at INSA Lyon, I am looking for a 2 to 3 month internship (June - September 2025) in AI or Computer Vision to develop technical and practical skills in a team driven by innovation.
                 </p>
                 <div className="button">
-                    <a href="/src/assets/Resume-EnzoDosAnjos.pdf" download> {/* build project for it to work */}
+                    <a href="/src/assets/Resume-EnzoDosAnjos.pdf" download>
                         <button className="dw-btn"
                                 data-aos="fade-up-right"
                                 data-aos-delay="300"

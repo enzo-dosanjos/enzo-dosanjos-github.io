@@ -8,18 +8,23 @@ import TrackVisibility from "react-on-screen"
 import AOS from 'aos';
 import 'aos/dist/aos.css'
 
+import CLogo from "../../assets/img/logo/C-logo.png"
+import CppLogo from "../../assets/img/logo/Cpp-logo.png"
+import SQlLogo from "../../assets/img/logo/PL_SQL-logo.png"
 import PythonLogo from "../../assets/img/logo/Python-logo.png"
 import JSLogo from "../../assets/img/logo/JavaScript-logo.png"
 import HtmlLogo from "../../assets/img/logo/HTML-logo.png"
 import CssLogo from "../../assets/img/logo/CSS-logo.png"
 import ReactLogo from "../../assets/img/logo/React-logo.png"
 import GitLogo from "../../assets/img/logo/Git-logo.png"
-import PhotoshopLogo from "../../assets/img/logo/Photoshop-logo.png"
+import VSLogo from "../../assets/img/logo/VS-logo.png"
+import JetLogo from "../../assets/img/logo/JetBrains-logo.svg"
 
 import EnglishLVL from "../../assets/img/English-lvl.svg";
 import FrenchLVL from "../../assets/img/French-lvl.svg";
 import SpanishLVL from "../../assets/img/Spanish-lvl.svg";
 import JapLVL from "../../assets/img/Jap-lvl.svg";
+import ChineseLVL from "../../assets/img/Chinese-lvl.svg";
 
 
 
@@ -81,6 +86,30 @@ const Skills = () => (
                             <h2>Python</h2>
                         </li>
                         <li>
+                            <img src={CLogo}
+                                 alt="C-logo"
+                                 data-aos="zoom-in"
+                                 data-aos-once="true"
+                            />
+                            <h2>C</h2>
+                        </li>
+                        <li>
+                            <img src={CppLogo}
+                                 alt="Cpp-logo"
+                                 data-aos="zoom-in"
+                                 data-aos-once="true"
+                            />
+                            <h2>C++</h2>
+                        </li>
+                        <li>
+                            <img src={SQlLogo}
+                                 alt="SQL-logo"
+                                 data-aos="zoom-in"
+                                 data-aos-once="true"
+                            />
+                            <h2>PL/SQL</h2>
+                        </li>
+                        <li>
                             <img src={JSLogo}
                                  alt="JavaScript-logo"
 
@@ -127,12 +156,20 @@ const Skills = () => (
                             <h2>Git</h2>
                         </li>
                         <li>
-                            <img src={PhotoshopLogo}
-                                 alt="photoshop-logo"
+                            <img src={VSLogo}
+                                 alt="VS-logo"
                                  data-aos="zoom-in"
                                  data-aos-once="true"
                             />
-                            <h2>Photoshop</h2>
+                            <h2>Visual Studio code</h2>
+                        </li>
+                        <li>
+                            <img src={JetLogo}
+                                 alt="Jetbrains-logo"
+                                 data-aos="zoom-in"
+                                 data-aos-once="true"
+                            />
+                            <h2>Jetbrains suite</h2>
                         </li>
                     </ul>
                 </div>
@@ -163,6 +200,10 @@ const Skills = () => (
                     <div className="language">
                         <img src={JapLVL} alt="japanese-level"/>
                         <h5>Japanese</h5>
+                    </div>
+                    <div className="language">
+                        <img src={ChineseLVL} alt="chinese-level"/>
+                        <h5>Chinese</h5>
                     </div>
                 </Carousel>
             </div>

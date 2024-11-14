@@ -65,23 +65,63 @@ const Qualification = () => (
                                   data-aos-delay="100"
                                   data-aos-once="true"
                             >
-                                June 2019 - 1 month
+                                June 2023 - 1 month and a half
                             </span>
                         <h2 data-aos="zoom-in"
-                            data-aos-delay="200"
+                            data-aos-delay="300"
+                            data-aos-once="true"
+                        >
+                            Operator Internship at Virobotic
+                        </h2>
+                        <p data-aos="zoom-in"
+                           data-aos-delay="750"
+                           data-aos-once="true"
+                        >
+                            Developed a detection system of important elements on a picture to crop around it and a system designed to get all the important features on a picture, such as a depth map using stereo vision, used to train and use an AI model …
+                        </p>
+                        <h4 className="skills"
+                            data-aos="zoom-in"
+                            data-aos-delay="1750"
+                            data-aos-once="true"
+                        >
+                            Computer Vision, Artificial Intelligence
+                        </h4>
+                    </div>
+                </div>
+
+                <div className="item1">
+                    <TrackVisibility once>
+                        <Line/>
+                    </TrackVisibility>
+                    <div className="icon"
+                         data-aos="zoom-in"
+                         data-aos-delay="1850"
+                         data-aos-once="true"
+                    >
+                        <BusinessCenterRoundedIcon/>
+                    </div>
+                    <div className="text">
+                            <span data-aos="zoom-in"
+                                  data-aos-delay="1900"
+                                  data-aos-once="true"
+                            >
+                                June 2019 - 1 week
+                            </span>
+                        <h2 data-aos="zoom-in"
+                            data-aos-delay="2050"
                             data-aos-once="true"
                         >
                             Observation Internship at Clubic
                         </h2>
                         <p data-aos="zoom-in"
-                           data-aos-delay="650"
+                           data-aos-delay="2400"
                            data-aos-once="true"
                         >
                             Assist in the maintenance of a high-tech and digital news website (Mandatory internship)
                         </p>
                         <h4 className="skills"
                             data-aos="zoom-in"
-                            data-aos-delay="900"
+                            data-aos-delay="3000"
                             data-aos-once="true"
                         >
                             Cloud Computing and Web development
@@ -91,6 +131,7 @@ const Qualification = () => (
             </div>
             <div className="education">
                 <h3> Education </h3>
+
                 <div className="item2">
                     <TrackVisibility once>
                         <Line/>
@@ -106,49 +147,102 @@ const Qualification = () => (
                               data-aos-delay="100"
                               data-aos-once="true"
                         >
-                            2022 - currently
+                            September 2024 - Present
                         </span>
                         <h2 data-aos="zoom-in"
                             data-aos-delay="400"
                             data-aos-once="true"
                         >
-                            Initial training for engineering jobs (FIMI)
+                            Computer Science department
                         </h2>
+                        <p data-aos="zoom-in"
+                           data-aos-delay="800"
+                           data-aos-once="true"
+                        >
+                            3rd year engineering undergraduate in a syllabus focusing on the acquisition of fundamental concepts of computer science and the mastery of the main IT techniques.
+                        </p>
                         <h4 className="school"
                             data-aos="zoom-in"
-                            data-aos-delay="800"
+                            data-aos-delay="1800"
                             data-aos-once="true"
                         >
-                            Insa Lyon
+                            INSA Lyon
                         </h4>
                     </div>
                 </div>
+
                 <div className="item2">
                     <TrackVisibility once>
-                        <Line2 />
+                        <Line/>
                     </TrackVisibility>
                     <div className="icon"
                          data-aos="zoom-in"
-                         data-aos-delay="1200"
+                         data-aos-delay="1900"
                          data-aos-once="true"
                     >
                         <SchoolRoundedIcon/>
                     </div>
                     <div className="text">
                         <span data-aos="zoom-in"
-                              data-aos-delay="1300"
+                              data-aos-delay="1950"
                               data-aos-once="true"
                         >
-                            2019 – 2022
+                            September 2022 - June 2024
                         </span>
                         <h2 data-aos="zoom-in"
-                            data-aos-delay="1600"
+                            data-aos-delay="2300"
                             data-aos-once="true"
                         >
-                            Baccalaureate with “très bien” distinction | head of the class
+                            Initial training for engineering jobs (FIMI)
                         </h2>
+                        <p data-aos="zoom-in"
+                           data-aos-delay="2700"
+                           data-aos-once="true"
+                        >
+                            2 year common-core syllabus centered on Mathematics, Sciences, Technical subjects and Humanities. Student in the international English-speaking section SCAN.
+                        </p>
+                        <h4 className="school"
+                            data-aos="zoom-in"
+                            data-aos-delay="3700"
+                            data-aos-once="true"
+                        >
+                            INSA Lyon
+                        </h4>
+                    </div>
+                </div>
+
+                <div className="item2">
+                    <TrackVisibility once>
+                        <Line2 />
+                    </TrackVisibility>
+                    <div className="icon"
+                         data-aos="zoom-in"
+                         data-aos-delay="3800"
+                         data-aos-once="true"
+                    >
+                        <SchoolRoundedIcon/>
+                    </div>
+                    <div className="text">
+                        <span data-aos="zoom-in"
+                              data-aos-delay="3850"
+                              data-aos-once="true"
+                        >
+                            September 2019 – July 2022
+                        </span>
+                        <h2 data-aos="zoom-in"
+                            data-aos-delay="4200"
+                            data-aos-once="true"
+                        >
+                            Baccalaureate with distinction | graduated with honors
+                        </h2>
+                        <p data-aos="zoom-in"
+                           data-aos-delay="4600"
+                           data-aos-once="true"
+                        >
+                            Majored in Mathematics, Physics and Informatics.
+                        </p>
                         <h4 data-aos="zoom-in"
-                            data-aos-delay="2000"
+                            data-aos-delay="5000"
                             data-aos-once="true"
                             className="school"
                         >
