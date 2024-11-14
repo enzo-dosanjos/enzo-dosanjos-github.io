@@ -79,7 +79,7 @@ const Projects = () => {
                             <div onClick={() => {
                                 setOpenModal(true), setIdCard(0)
                             }}>
-                                <ProjectCard {...projects[2]}/>
+                                <ProjectCard {...projects[0]}/>
                             </div>
                             <div onClick={() => {
                                 setOpenModal(true), setIdCard(1)
@@ -89,36 +89,36 @@ const Projects = () => {
                             <div onClick={() => {
                                 setOpenModal(true), setIdCard(2)
                             }}>
-                                <ProjectCard {...projects[3]}/>
+                                <ProjectCard {...projects[2]}/>
                             </div>
                             <div onClick={() => {
                                 setOpenModal(true), setIdCard(3)
                             }}>
-                                <ProjectCard {...projects[4]}/>
+                                <ProjectCard {...projects[3]}/>
                             </div>
                             <div onClick={() => {
                                 setOpenModal(true), setIdCard(4)
                             }}>
-                                <ProjectCard {...projects[0]}/>
+                                <ProjectCard {...projects[4]}/>
                             </div>
                         </Tab.Pane>
                         <Tab.Pane eventKey="second">
                             <div onClick={() => {
                                 setOpenModal(true), setIdCard(0)
                             }}>
-                                <ProjectCard {...projects[2]}/>
+                                <ProjectCard {...projects[0]}/>
                             </div>
                         </Tab.Pane>
                         <Tab.Pane eventKey="third">
                             <div onClick={() => {
                                 setOpenModal(true), setIdCard(1)
                             }}>
-                                <ProjectCard {...projects[2]}/>
+                                <ProjectCard {...projects[1]}/>
                             </div>
                             <div onClick={() => {
                                 setOpenModal(true), setIdCard(2)
                             }}>
-                                <ProjectCard {...projects[3]}/>
+                                <ProjectCard {...projects[2]}/>
                             </div>
                         </Tab.Pane>
                     </Tab.Content>
