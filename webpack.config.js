@@ -5,8 +5,7 @@ module.exports = {
     mode: "development",
     entry: "/src/index.js", // main js
     output: {
-        path: path.resolve(__dirname, "public"), // output folder
-        publicPath: "/enzo-dosanjos.github.io/",
+        path: path.resolve(__dirname, ""), // output folder
     },
     module: {
         rules: [
