@@ -6,7 +6,147 @@
   <component name="ChangeListManager">
     <list default="true" id="307d2d5b-76fc-413e-9306-77dc44c1f8df" name="Changes" comment="Change some informations">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Pages/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Pages/Projects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/182834c3e7227b474128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1ec9fd71f79599496caf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/222242bc47171af699a5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/295bacc26bc1f5d1c7bf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4918a574633149442c6c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4b3bb740be41d561c55b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4b404a860331dc96ca65.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4d4e0924cdc389aa52c0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/57fd05d4ae650374c8de.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6a997ca9d615ca607041.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6cb93406212e79078150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7891b553991d2a88a3fe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a2a16f087e18d50f3d99.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a3a39de0be09ed27114f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a77de540a38981833f9e.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/b6580dea381d06e1bb8c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bc04bf98e010176bdb61.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c67e6b312e2fd67c0a09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/d9220742791a5add734f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e8746a624ed098489406.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee4850bc5e8c2ebf10247792d1d49dbb.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/f3c356578f31117b075b.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/acorn" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/acorn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/acorn.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/acorn.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/ansi-html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/ansi-html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/ansi-html.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/ansi-html.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/browserslist" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/browserslist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/browserslist-lint" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/browserslist-lint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/browserslist-lint.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/browserslist-lint.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/browserslist.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/browserslist.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/cssesc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/cssesc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/cssesc.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/cssesc.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/electron" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/electron" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/electron.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/electron.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/envinfo" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/envinfo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/envinfo.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/envinfo.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/extract-zip" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/extract-zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/extract-zip.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/extract-zip.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/he" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/he" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/he.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/he.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/html-minifier-terser" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/html-minifier-terser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/html-minifier-terser.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/html-minifier-terser.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/import-local-fixture" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/import-local-fixture" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/import-local-fixture.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/import-local-fixture.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/is-ci" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/is-ci" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/is-ci.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/is-ci.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/is-docker" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/is-docker" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/is-docker.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/is-docker.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/jsesc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/jsesc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/jsesc.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/jsesc.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/json5.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/json5.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/loose-envify" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/loose-envify" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/loose-envify.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/loose-envify.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/mime" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/mime" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/mime.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/mime.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/mkdirp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/mkdirp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/mkdirp.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/mkdirp.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/multicast-dns" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/multicast-dns" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/multicast-dns.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/multicast-dns.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/nanoid" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/nanoid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/nanoid.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/nanoid.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/parser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/parser.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/parser.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/rc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/rc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/rc.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/rc.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/react-devtools" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/react-devtools" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/react-devtools.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/react-devtools.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/regjsparser" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/regjsparser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/regjsparser.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/regjsparser.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/resolve" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/resolve" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/resolve.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/resolve.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/rimraf" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/rimraf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/rimraf.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/rimraf.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/semver.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/semver.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/terser" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/terser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/terser.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/terser.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/uuid" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/uuid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/uuid.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/uuid.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/webpack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/webpack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/webpack-cli" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/webpack-cli" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/webpack-cli.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/webpack-cli.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/webpack-dev-server" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/webpack-dev-server" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/webpack-dev-server.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/webpack-dev-server.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/webpack.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/webpack.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/yarn" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/yarn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/yarn.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/yarn.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/yarnpkg" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/yarnpkg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/yarnpkg.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/yarnpkg.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/browserslist/node_modules/.bin/browserslist-lint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/browserslist/node_modules/.bin/browserslist-lint.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/css-loader/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/css-loader/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/css-loader/node_modules/.bin/semver.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/css-loader/node_modules/.bin/semver.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/electron/node_modules/.bin/extract-zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/electron/node_modules/.bin/extract-zip.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-zip/node_modules/.bin/mkdirp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-zip/node_modules/.bin/mkdirp.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/global-agent/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/global-agent/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/global-agent/node_modules/.bin/semver.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/global-agent/node_modules/.bin/semver.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/html-minifier-terser/node_modules/.bin/he" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/html-minifier-terser/node_modules/.bin/he.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/html-minifier-terser/node_modules/.bin/terser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/html-minifier-terser/node_modules/.bin/terser.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/package-json/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/package-json/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/package-json/node_modules/.bin/semver.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/package-json/node_modules/.bin/semver.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-devtools/node_modules/.bin/electron" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-devtools/node_modules/.bin/electron.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/regjsparser/node_modules/.bin/jsesc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/regjsparser/node_modules/.bin/jsesc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/regjsparser/node_modules/.bin/jsesc.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/regjsparser/node_modules/.bin/jsesc.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/semver-diff/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/semver-diff/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/semver-diff/node_modules/.bin/semver.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/semver-diff/node_modules/.bin/semver.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terser/node_modules/.bin/acorn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terser/node_modules/.bin/acorn.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/update-browserslist-db/node_modules/.bin/browserslist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/update-browserslist-db/node_modules/.bin/browserslist.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-cli/node_modules/.bin/envinfo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-cli/node_modules/.bin/envinfo.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-cli/node_modules/.bin/import-local-fixture" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-cli/node_modules/.bin/import-local-fixture.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-cli/node_modules/.bin/webpack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-cli/node_modules/.bin/webpack.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-cli/node_modules/cross-spawn/node_modules/.bin/node-which" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-cli/node_modules/cross-spawn/node_modules/.bin/node-which.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-server/node_modules/.bin/ansi-html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-server/node_modules/.bin/ansi-html.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-server/node_modules/.bin/rimraf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-server/node_modules/.bin/rimraf.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-server/node_modules/.bin/webpack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-server/node_modules/.bin/webpack.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/node_modules/.bin/acorn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/node_modules/.bin/acorn.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/node_modules/.bin/browserslist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/node_modules/.bin/browserslist.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,25 +171,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/colin/Documents/GitHub/enzo-dosanjos.github.io/src/assets/img",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_interpreter_path": "node",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Problems",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/colin/Documents/GitHub/enzo-dosanjos.github.io/src/assets/img&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\colin\Documents\GitHub\enzo-dosanjos.github.io\src\assets\img" />
@@ -121,7 +261,9 @@
       <workItem from="1677978067942" duration="1733000" />
       <workItem from="1731170349722" duration="672000" />
       <workItem from="1731562188713" duration="15000" />
-      <workItem from="1731585883880" duration="7224000" />
+      <workItem from="1731585883880" duration="7286000" />
+      <workItem from="1733466265160" duration="7174000" />
+      <workItem from="1733521641915" duration="2799000" />
     </task>
     <task id="LOCAL-00001" summary="Make it work again">
       <created>1674582993412</created>

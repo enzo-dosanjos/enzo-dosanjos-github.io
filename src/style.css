@@ -65,26 +65,24 @@ body {
     background-color: #f5f5f7 ; /* #121212 */
     color: #1d1d1f ; /* white: #fff */ /* grey: #6e6e73 */ /* black:  */
     font-family: 'Centra', sans-serif ;
-    font-size: 36px ;
+    line-height: 1.6;
 }
 
 h1, h2, h3, h4, h5, h6 {
     margin: 0;
     padding: 0;
-    line-height: normal;
+    line-height: 1.3;
 }
 
 h1 {
     font-weight: 700;
     letter-spacing: 0.8px;
-    font-size: 150%;
-    margin-bottom: 4%;
 }
 
 p, a, li, button, ul {
     margin: 0;
     padding: 0;
-    line-height: normal;
+    line-height: 1.3;
     text-decoration: none;
 }
 
@@ -92,67 +90,70 @@ section {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-bottom: 5%;
+    margin-bottom: 0.3rem;
 }
 
 .underline {
     list-style-type: none;
     background: #212529;
-    height: 5px;
+    height: 0.3rem;
     margin-top: 3%;
-    border-radius: 10px;
+    border-radius: 0.6rem;
     animation: 1.5s underline-anim forwards;
 
 }
 
 
 @media (max-width: 575px) or (max-device-width: 480px){
+    html {
+        scroll-padding-top: 50px; /* Adjust scroll padding for small devices */
+    }
+
     body {
+        line-height: 1.5;
         min-width: 300px;
     }
 
     section {
-        margin-bottom: 20%;
+        flex-direction: column;
+        margin-bottom: 10%;
     }
 }
 
-
 /************ NavBar ************/
 .navbar {
-    height: 70px;
-    font-size: 18px;
+    height: 4.3rem;
+    font-size: 1.1rem;
     font-weight: 400;
     font-family: 'Centra', sans-serif;
     z-index: 100;
     transition: 0.3s ease-in-out;
 }
 
-.navbar-toggler {
-    border: none;
-    font-size: 1rem;
-}
-
 .m-auto .nav-link{
-    margin: auto 20px;
+    margin: auto 1.2rem;
     text-transform: uppercase;
     text-align: center;
     position: relative;
-
     opacity: 0;
     animation: fadeInUp 0.3s 0.3s;
     animation-fill-mode: forwards;
     clear: both;
 }
 
+.m-auto .nav-link:hover {
+    color: #9b9d9e;
+}
+
 .m-auto .nav-link::after{
     content: "";
     position: absolute;
-    bottom: 4px;
+    bottom: 0.3rem;
     left: 50%;
     transform: translateX(-50%);
-    border-radius: 5px;
+    border-radius: 0.3rem;
     width: 0;
-    height: 2px;
+    height: 0.2rem;
     background: #fff;
     transition: 0.5s ease-in-out;
 }
@@ -173,7 +174,7 @@ section {
 }
 
 .scrolled {
-    height: 50px;
+    height: 3rem;
     margin: auto;
     font-family: 'Centra', sans-serif;
     transition: 0.3s ease-in-out;
@@ -181,54 +182,63 @@ section {
 
 @media (max-width: 991px) or (max-device-width: 480px) {
     .navbar {
-        height: 60px;
-        padding-right: 0;
-        text-indent: 0;
+        height: 3rem;
+        padding: 0;
+        flex-direction: column;
+    }
+
+    .navbar-toggler {
+        border: none;
+        font-size: 1rem;
+        cursor: pointer;
+        margin: 0.5rem 0;
     }
 
     .navbar-nav {
         padding-left: 0;
-        border-top: 10px white;
+        border-top: 0.6rem white;
     }
 
     .navbar-text button{
-        margin: 30px auto auto auto;
-        padding: 14px 26px;
+        margin: 1.9rem auto auto auto;
+        padding: 0.9rem 1.6rem;
         display:flex;
     }
 
     .navbar-collapse {
-        padding-bottom: 10%;
+        padding-bottom: 5%;
     }
 
     .container-fluid {
-        border-radius: 5px;
+        border-radius: 0.3rem;
     }
 
     .m-auto .nav-link {
         border-bottom-style: solid;
-        margin: 20px auto auto auto;
-        padding-bottom: 20px;
-        width: 40%;
+        margin: 0 auto 1.2rem auto;
+        padding-bottom: 0.8rem;
+        width: 45%;
     }
 
     .scrolled {
-        height: 50px;
+        height: 3.1rem;
     }
 }
 
-/************ Hero section ************/
+/************ Hero section *********** TODO */
 .home {
     margin-bottom: 0;
     padding: 14% 0 18% 0;
 }
 
 .hero-container {
-    width: 60%;
+    width: 100%;
+    max-width: 800px;
+    padding: 0 1rem;
 }
 
 .hero-container h3 {
-    font-size: 24px;
+    font-size: clamp(1rem, 2vw, 1.5rem);
     font-weight: 550;
     letter-spacing: 2px;
     text-transform: uppercase;
@@ -236,24 +246,20 @@ section {
 }
 
 .hero-container h1 {
-    font-size: 60px;
+    font-size: clamp(2rem, 5vw, 3.7rem);
     padding-bottom: 2%;
-    position: relative;
     font-weight: 700;
     line-height: 1.3;
     letter-spacing: -2px;
     color: #0071E3;
     text-shadow: 0 1px 2px rgba(0, 0, 0, .8);
-    display: block;
-    margin-bottom: 2%;
-    margin-right: -35%;
+    margin-bottom: 5%;
 }
 
 .hero-container p {
-    font-size: 18px;
+    font-size: clamp(0.9rem, 1.8vw, 1.1rem);
     letter-spacing: 0.8px;
     line-height: 1.5em;
-    width: 119%;
 }
 
 /* Download Button */
@@ -389,7 +395,7 @@ section {
     }
 }
 
-/************ Skills section ************/
+/************ Skills section *********** TODO */
 .programming {
     float: left;
     width: 45%;
@@ -491,7 +497,7 @@ section {
     }
 }
 
-/************ Qualifications section ************/
+/************ Qualifications section *********** TODO */
 .work-exp, .education {
     float: left;
     width: 40%;
@@ -600,7 +606,7 @@ section {
     }
 }
 
-/************ Projects section ************/
+/************ Projects section *********** TODO */
 .projects p {
     color: #fff;
     font-size: 18px;
@@ -942,7 +948,7 @@ section {
 
 }
 
-/************ Contact section ************/
+/************ Contact section *********** TODO */
 .contact-form {
     width: 58%;
     margin-top: 3%;
@@ -1057,7 +1063,7 @@ section {
     }
 }
 
-/************ Footer ************/
+/************ Footer *********** TODO */
 footer {
     height: fit-content;
     background: #212529;
