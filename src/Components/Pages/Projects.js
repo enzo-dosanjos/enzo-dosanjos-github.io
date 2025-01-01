@@ -77,6 +77,11 @@ const Projects = () => {
                     >
                         <Tab.Pane eventKey="first">
                             <div onClick={() => {
+                                setOpenModal(true), setIdCard(5)
+                            }}>
+                                <ProjectCard {...projects[5]}/>
+                            </div>
+                            <div onClick={() => {
                                 setOpenModal(true), setIdCard(2)
                             }}>
                                 <ProjectCard {...projects[2]}/>
@@ -104,12 +109,22 @@ const Projects = () => {
                         </Tab.Pane>
                         <Tab.Pane eventKey="second">
                             <div onClick={() => {
+                                setOpenModal(true), setIdCard(5)
+                            }}>
+                                <ProjectCard {...projects[5]}/>
+                            </div>
+                            <div onClick={() => {
                                 setOpenModal(true), setIdCard(2)
                             }}>
                                 <ProjectCard {...projects[2]}/>
                             </div>
                         </Tab.Pane>
                         <Tab.Pane eventKey="third">
+                            <div onClick={() => {
+                                setOpenModal(true), setIdCard(5)
+                            }}>
+                                <ProjectCard {...projects[5]}/>
+                            </div>
                             <div onClick={() => {
                                 setOpenModal(true), setIdCard(2)
                             }}>

@@ -18,7 +18,7 @@ import CssLogo from "../../assets/img/logo/CSS-logo.png"
 import ReactLogo from "../../assets/img/logo/React-logo.png"
 import GitLogo from "../../assets/img/logo/Git-logo.png"
 import VSLogo from "../../assets/img/logo/VS-logo.png"
-import JetLogo from "../../assets/img/logo/JetBrains-logo.svg"
+import JetLogo from "../../assets/img/logo/JetBrains-logo.png"
 
 import EnglishLVL from "../../assets/img/English-lvl.svg";
 import FrenchLVL from "../../assets/img/French-lvl.svg";

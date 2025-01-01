@@ -3,6 +3,7 @@ import Scheduler from '../assets/img/Scheduler.png'
 import FacialRecognition from '../assets/img/Facial-recognition.png'
 import MicroAnalysis from '../assets/img/MicroAnalysis.png'
 import MazeGame from '../assets/img/2dMazeGame.png'
+import NN from '../assets/img/NN.png'
 
 const projects = [
     {
@@ -34,6 +35,12 @@ const projects = [
         description: "School Project: I made a 2D adventure maze game with fellow students in which the objective is to reach a chest placed randomly while being chased by a monster and dodging traps",
         imgUrl: MazeGame,
         source: "https://github.com/enzo-dosanjos/2D-adventure-Maze"
+
+    }, {
+        title: "Neural Network that classify images",
+        description: "A simple Neural Network library with one hidden layer designed to classify images. It can train a model, improve the acccuracy of an existing one, test a model or predict the class of an image. It uses forward propagation, backpropagation to calculate gradients and gradient descent to optimize weights and biases",
+        imgUrl: NN,
+        source: "https://github.com/enzo-dosanjos/Neural-Network-classify-images"
 
     }];
 

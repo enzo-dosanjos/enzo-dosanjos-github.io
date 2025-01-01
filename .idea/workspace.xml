@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="307d2d5b-76fc-413e-9306-77dc44c1f8df" name="Changes" comment="Change some informations">
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Pages/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Pages/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Pages/Projects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Pages/Qualification.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Pages/Qualification.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Pages/Skills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Pages/Skills.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/projects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/logo/JetBrains-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,11 +66,11 @@
       <recent name="C:\Users\colin\IdeaProjects\Portofolio\dist\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\colin\Documents\GitHub\enzo-dosanjos.github.io\src\assets\img\logo" />
+      <recent name="C:\Users\colin\Documents\GitHub\enzo-dosanjos.github.io\src\assets\img" />
       <recent name="C:\Users\colin\Documents\GitHub\enzo-dosanjos.github.io\src\assets" />
       <recent name="C:\Users\colin\IdeaProjects\Portofolio\dist" />
       <recent name="C:\Users\colin\IdeaProjects\Portofolio\src\Components" />
-      <recent name="C:\Users\colin\IdeaProjects\Portofolio\src\assets\img" />
-      <recent name="C:\Users\colin\IdeaProjects\Portofolio\src\assets\fonts" />
     </key>
   </component>
   <component name="RunManager">
@@ -123,6 +131,7 @@
       <workItem from="1731585883880" duration="7286000" />
       <workItem from="1733466265160" duration="7174000" />
       <workItem from="1733521641915" duration="2799000" />
+      <workItem from="1735754859777" duration="15573000" />
     </task>
     <task id="LOCAL-00001" summary="Make it work again">
       <created>1674582993412</created>

@@ -52,36 +52,41 @@ const Qualification = () => (
                 <h3> Experience </h3>
                 <div className="item1">
                     <TrackVisibility once>
-                        <Line/>
+                        <Line />
                     </TrackVisibility>
-                    <div className="icon"
-                         data-aos="zoom-in"
-                         data-aos-once="true"
+                    <div
+                        className="icon"
+                        data-aos="zoom-in"
+                        data-aos-once="true"
                     >
-                        <BusinessCenterRoundedIcon/>
+                        <BusinessCenterRoundedIcon />
                     </div>
                     <div className="text">
-                            <span data-aos="zoom-in"
-                                  data-aos-delay="100"
-                                  data-aos-once="true"
-                            >
-                                June 2023 - 1 month and a half
-                            </span>
-                        <h2 data-aos="zoom-in"
-                            data-aos-delay="300"
+                        <span
+                            data-aos="zoom-in"
+                            data-aos-delay="100"
+                            data-aos-once="true"
+                        >
+                            June 2023 - 1 month and a half
+                        </span>
+                        <h2
+                            data-aos="zoom-in"
+                            data-aos-delay="400"
                             data-aos-once="true"
                         >
                             Operator Internship at Virobotic
                         </h2>
-                        <p data-aos="zoom-in"
-                           data-aos-delay="750"
-                           data-aos-once="true"
-                        >
-                            Developed a detection system of important elements on a picture to crop around it and a system designed to get all the important features on a picture, such as a depth map using stereo vision, used to train and use an AI model …
-                        </p>
-                        <h4 className="skills"
+                        <p
                             data-aos="zoom-in"
-                            data-aos-delay="1750"
+                            data-aos-delay="800"
+                            data-aos-once="true"
+                        >
+                            Developed a detection system of important elements on a picture to crop around it...
+                        </p>
+                        <h4
+                            className="skills"
+                            data-aos="zoom-in"
+                            data-aos-delay="1400"
                             data-aos-once="true"
                         >
                             Computer Vision, Artificial Intelligence
@@ -89,52 +94,58 @@ const Qualification = () => (
                     </div>
                 </div>
 
-                <div className="item1">
+
+                <div className="item2">
                     <TrackVisibility once>
-                        <Line/>
+                        <Line />
                     </TrackVisibility>
-                    <div className="icon"
-                         data-aos="zoom-in"
-                         data-aos-delay="1850"
-                         data-aos-once="true"
+                    <div
+                        className="icon"
+                        data-aos="zoom-in"
+                        data-aos-once="true"
                     >
-                        <BusinessCenterRoundedIcon/>
+                        <SchoolRoundedIcon />
                     </div>
                     <div className="text">
-                            <span data-aos="zoom-in"
-                                  data-aos-delay="1900"
-                                  data-aos-once="true"
-                            >
-                                June 2019 - 1 week
-                            </span>
-                        <h2 data-aos="zoom-in"
-                            data-aos-delay="2050"
-                            data-aos-once="true"
-                        >
-                            Observation Internship at Clubic
-                        </h2>
-                        <p data-aos="zoom-in"
-                           data-aos-delay="2400"
-                           data-aos-once="true"
-                        >
-                            Assist in the maintenance of a high-tech and digital news website (Mandatory internship)
-                        </p>
-                        <h4 className="skills"
+                        <span
                             data-aos="zoom-in"
-                            data-aos-delay="3000"
+                            data-aos-delay="100"
                             data-aos-once="true"
                         >
-                            Cloud Computing and Web development
+                            September 2024 - Present
+                        </span>
+                        <h2
+                            data-aos="zoom-in"
+                            data-aos-delay="400"
+                            data-aos-once="true"
+                        >
+                            Computer Science department
+                        </h2>
+                        <p
+                            data-aos="zoom-in"
+                            data-aos-delay="800"
+                            data-aos-once="true"
+                        >
+                            3rd year engineering undergraduate in a syllabus focusing on fundamental concepts of computer science...
+                        </p>
+                        <h4
+                            className="school"
+                            data-aos="zoom-in"
+                            data-aos-delay="1400"
+                            data-aos-once="true"
+                        >
+                            INSA Lyon
                         </h4>
                     </div>
                 </div>
+
             </div>
             <div className="education">
                 <h3> Education </h3>
 
                 <div className="item2">
                     <TrackVisibility once>
-                        <Line/>
+                        <Line2 />
                     </TrackVisibility>
                     <div className="icon"
                          data-aos="zoom-in"
@@ -173,37 +184,36 @@ const Qualification = () => (
 
                 <div className="item2">
                     <TrackVisibility once>
-                        <Line/>
+                        <Line2 />
                     </TrackVisibility>
                     <div className="icon"
                          data-aos="zoom-in"
-                         data-aos-delay="1900"
                          data-aos-once="true"
                     >
                         <SchoolRoundedIcon/>
                     </div>
                     <div className="text">
                         <span data-aos="zoom-in"
-                              data-aos-delay="1950"
+                              data-aos-delay="100"
                               data-aos-once="true"
                         >
                             September 2022 - June 2024
                         </span>
                         <h2 data-aos="zoom-in"
-                            data-aos-delay="2300"
+                            data-aos-delay="400"
                             data-aos-once="true"
                         >
                             Initial training for engineering jobs (FIMI)
                         </h2>
                         <p data-aos="zoom-in"
-                           data-aos-delay="2700"
+                           data-aos-delay="800"
                            data-aos-once="true"
                         >
                             2 year common-core syllabus centered on Mathematics, Sciences, Technical subjects and Humanities. Student in the international English-speaking section SCAN.
                         </p>
                         <h4 className="school"
                             data-aos="zoom-in"
-                            data-aos-delay="3700"
+                            data-aos-delay="1800"
                             data-aos-once="true"
                         >
                             INSA Lyon
@@ -217,32 +227,31 @@ const Qualification = () => (
                     </TrackVisibility>
                     <div className="icon"
                          data-aos="zoom-in"
-                         data-aos-delay="3800"
                          data-aos-once="true"
                     >
                         <SchoolRoundedIcon/>
                     </div>
                     <div className="text">
                         <span data-aos="zoom-in"
-                              data-aos-delay="3850"
+                              data-aos-delay="100"
                               data-aos-once="true"
                         >
                             September 2019 – July 2022
                         </span>
                         <h2 data-aos="zoom-in"
-                            data-aos-delay="4200"
+                            data-aos-delay="400"
                             data-aos-once="true"
                         >
                             Baccalaureate with distinction | graduated with honors
                         </h2>
                         <p data-aos="zoom-in"
-                           data-aos-delay="4600"
+                           data-aos-delay="800"
                            data-aos-once="true"
                         >
                             Majored in Mathematics, Physics and Informatics.
                         </p>
                         <h4 data-aos="zoom-in"
-                            data-aos-delay="5000"
+                            data-aos-delay="1200"
                             data-aos-once="true"
                             className="school"
                         >

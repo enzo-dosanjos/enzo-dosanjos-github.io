@@ -59,15 +59,17 @@ const Home = () => (
                 >
                     Hello, I am
                 </h3>
-                <h1>
-                    < Typewriter className="TextWriting"
-                                 options=
-                                     {{strings: ['Enzo Dos Anjos', 'a computer science student engineer'],
-                                         autoStart: true,
-                                         loop: true,
-                                         pauseFor: 1500}}
-                    />
-                </h1>
+                <div className="hero-typeWriter-container">
+                    <h1>
+                        < Typewriter className="TextWriting"
+                                     options=
+                                         {{strings: ['Enzo Dos Anjos', 'a computer science student engineer'],
+                                             autoStart: true,
+                                             loop: true,
+                                             pauseFor: 1500}}
+                        />
+                    </h1>
+                </div>
                 <p data-aos="fade"
                    data-aos-delay="300"
                    data-aos-once="true"
